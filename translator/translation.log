@@ -1,0 +1,16 @@
+[2025-07-15 22:45:29,347 INFO] Loading checkpoint from models/model_step_19000.pt
+[2025-07-15 22:45:31,814 INFO] Loading data into the model
+[2025-07-15 22:45:31,941 INFO] 
+SENT 1: ['<unk>', '<unk>', '<unk>', '<unk>', '<unk>']
+PRED 1: <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>
+PRED SCORE: -0.0763
+
+[2025-07-15 22:45:31,942 INFO] PRED SCORE: -0.0763, PRED PPL: 1.08 NB SENTENCES: 1
+[2025-07-15 22:54:52,399 INFO] Loading checkpoint from models/model_step_19000.pt
+[2025-07-15 22:54:54,688 INFO] Loading data into the model
+[2025-07-15 22:54:54,792 INFO] 
+SENT 1: ['<unk>', '<unk>', '<unk>', '<unk>', '<unk>']
+PRED 1: <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>
+PRED SCORE: -0.0763
+
+[2025-07-15 22:54:54,792 INFO] PRED SCORE: -0.0763, PRED PPL: 1.08 NB SENTENCES: 1

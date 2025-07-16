@@ -1,0 +1,10 @@
+﻿*.pyc
+*.src
+*.tgt
+*.json
+*.en
+*.ko
+*.txt
+*.pt
+*.vocab
+translator/spm_model/spm.model
